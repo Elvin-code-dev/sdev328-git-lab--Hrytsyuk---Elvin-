@@ -43,6 +43,8 @@ const poem = `
     Who brave the night and make it work.
     We'll meet again at dawn's first ray,
     With coffee brewed and bugs to slay.
+
+    And finally behold Elvin was here
 `;
 
 console.log(poem);
